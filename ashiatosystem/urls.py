@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('rakucad/', include('rakucad.urls')),
     path('base/', include('base.urls')),
+    path('rakucad_2022_10/', include('rakucad_2022_10.urls')),
 ]

@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rakucad',
     'base',
+    'rakucad_2022_10',
 ]
 
 MIDDLEWARE = [
