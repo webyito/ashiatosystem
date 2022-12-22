@@ -19,7 +19,7 @@ class IndexView(View):
         subject = "【あしあと】複写業向けDMからアクセスがありました"
         message = id
         from_email = "decube.ashiato@gmail.com"
-        #送信先メールアドレス、複数設定の場合は「,」で区切る
+        #送信先メールアドレス、複数設定の場合は[,]で区切る
         recipient_list = ["trim.rakucadtrace@gmail.com"]
         try:
             send_mail(subject, message, from_email, recipient_list)
