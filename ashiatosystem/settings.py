@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'rakucad',
     'base',
     'rakucad_2022_10',
+    'webchalle_estate',
+    'webchalle_salon',
+    'webchalle_gourmet',
 ]
 
 MIDDLEWARE = [

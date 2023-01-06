@@ -21,4 +21,7 @@ urlpatterns = [
     path('rakucad/', include('rakucad.urls')),
     path('base/', include('base.urls')),
     path('rakucad_2022_10/', include('rakucad_2022_10.urls')),
+    path('webchalle_estate/', include('webchalle_estate.urls')),
+    path('webchalle_salon/', include('webchalle_salon.urls')),
+    path('webchalle_gourmet/', include('webchalle_gourmet.urls')),
 ]
