@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'webchalle_estate',
     'webchalle_salon',
     'webchalle_gourmet',
+    'car',
 ]
 
 MIDDLEWARE = [
