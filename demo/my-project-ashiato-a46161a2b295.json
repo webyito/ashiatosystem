@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-ashiato",
+  "private_key_id": "a46161a2b29520033098ce19d88d0addd0a2d0cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXBRa6P5FQcOFp\nQe7jOZ9mgbYL1/RhycFYP3H5X4xu5e9t+2RBhLXJhKeTmUxETvEDRmkcFu1j2/BB\nZdFVyCOQeuc0GWc/RTTr3qB5GRpbsduivtjupG2tiOajSZkU+/IcPdwEz5zhZYep\nJZ/7HA3Dp1Ip3/C08UZlFY70L3LeExedqzDrAlJ1+VswYrHyG+KdrpqHnsbgm8+V\n8zTwS/9D0RwcFSzX+7oOgOA7q/y5RBkxbcP7fbqWyZ/0vGS5JYPweircuuxKLy2i\nvsVtGLnCdswyckl82Op5lj583j1mY5MjwyzuPTSb9b+nHfFQhGWQeKCLLRRuZCEC\nFB+9fjRfAgMBAAECggEAAbAiCgtGtkV0l5FzcSg6JqFdDwG+gugFEw7Ic8c6wIIg\nm5HuKw+CJ9dZQ3DgJuchwD9UwuoxKegHnlPQzWYZVWCJoSCT7Wy7KiDgzKKUUOT4\nDvKFnHYBAGxDN0P0JjSGJY+cwxLoLeLQqlTHyT5io0cUf4ypBJqiTVfae/NFaRXk\nmbzSzSjRg/4kg3VLXsgYSKC3bepSmPRLrJJRSF4Omner7+BnJtqtKlOw7vLLjgTB\nf3bJZGUf81URBN92nb6sTJxvyOTqlUkzuB30tlfxfMCcldNTbKW73UtNAFH6mMmF\nb60cSqokgXRgEIBc8TILVPPBOv+igsxjcdfNkvzktQKBgQDwbIv6pTHxhP78ZmZ2\nFRkqyPtycMXPbwsUn+dP+DthllayPSNPOnaa2Q5bMf6H94ppmmi5mKLazZwU0guW\nmBQGS4MW3HKer6wzxzzSUFxLFzD7E9Dk2cb7Zgm5OTMxUfgFNUuKFIF1pV1iLyqH\nJt0mxdTMmVXCIdMDTaEMtBC0BQKBgQDk8zZUYl1aUW2OAg66tLmK8FCb9SLZc5vc\nnPxLILJXQl0au7JpTf6E9dRpWmtHEqy9qUnG3/xJyioibVXBVmnJoZ0R2KAitjvS\nJFCGvd8Y/VKV8KY+lg3yi6FFg91X061fD8gCfvWgz9gLbkjGroLotrGrREGMTJ3u\nkb6/DSz4EwKBgQChy+rH2rQpnR8cLK13eetd57OP6GS2nDwQvSulnaAYpFvjx1Ej\n2GxI+Rm4NYTda7EyMD+Z5yZxqT0IpfI2flG7isXFdMWOFRsGHWbJAluaDRlhXoyN\n9iD6vkh85gmVf1wx5RPY8MPOsGKP2L3+BiF+HlR+/BHCe5DOAEgJjIRRIQKBgQCD\nk8MFfAJqhaGQm14brwFy9+lbt+XvUqGgiBf2lTPpMhqP4o8GNeywPRd19KDyl6ju\n1vuvb8puHeFZJ7zBAAiL+HVsbDKbwF9gxb4Bsd0lX3C2+zaPgW1Clzx31vC+KMja\neRdZV92SLeDbsOXiSSiy1UwGQZPqLZ4WHWyiH9BYQQKBgDWWCJsw6ilbLltv3Qqt\nc9pDTLE+y3riq6HTseAPO0fw/l7CFId3u0cv9JUHR8DCuaVQ7PB+qrD+s6+tnMvY\nl20XDv/hMcpJRXtQh+HEJ4g1/6D7p+AFBBNqvRS5KS+w8oe4/io0ArihseMzMhbS\n4N+fgLPeCZKge0kwoVEvlcTk\n-----END PRIVATE KEY-----\n",
+  "client_email": "ashiato@my-project-ashiato.iam.gserviceaccount.com",
+  "client_id": "101231059850112430217",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ashiato%40my-project-ashiato.iam.gserviceaccount.com"
+}

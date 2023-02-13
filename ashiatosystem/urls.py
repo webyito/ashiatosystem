@@ -26,4 +26,5 @@ urlpatterns = [
     path('webchalle_gourmet/', include('webchalle_gourmet.urls')),
     path('car/', include('car.urls')),
     path('rakucad_2023_02/',include('rakucad_2023_02.urls')),
+    path('demo/', include('demo.urls')),
 ]

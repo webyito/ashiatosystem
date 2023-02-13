@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-u8apxp6o8%*7p69*rfyqjl9a_pxx0)&#o)q6685pxt3x0+itb0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'webchalle_gourmet',
     'car',
     'rakucad_2023_02',
+    'demo',
 ]
 
 MIDDLEWARE = [
