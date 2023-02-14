@@ -141,3 +141,6 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'decube.ashiato@gmail.com'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER 
 EMAIL_HOST_PASSWORD = 'hhmxzfykjfxhvcjg'
+
+
+    
