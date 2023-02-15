@@ -18,9 +18,9 @@ class IndexView(View):
 
         subject = "【2月あしあとDM】サイトにアクセスがありました"
         message = id
-        from_email = "decube.ashiato@gmail.com"
+        from_email = "web.decube@gmail.com"
         #送信先メールアドレス、複数設定の場合は「,」で区切るtrim.rakucadtrace@gmail.com
-        recipient_list = ["web.decube@gmail.com"]
+        recipient_list = ["trim.rakucadtrace@gmail.com"]
         try:
             send_mail(subject, message, from_email, recipient_list)
         except BadHeaderError:
