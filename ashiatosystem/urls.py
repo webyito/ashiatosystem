@@ -27,4 +27,6 @@ urlpatterns = [
     path('car/', include('car.urls')),
     path('rakucad_2023_02/',include('rakucad_2023_02.urls')),
     path('demo/', include('demo.urls')),
+    path('sanei_uranus/', include('sanei_uranus.urls')),
+    path('testito/',include('testito.urls')),
 ]

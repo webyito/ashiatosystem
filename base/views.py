@@ -18,7 +18,7 @@ class IndexView(View):
 
         subject = "【あしあと】名刺からアクセスがありました"
         message = id
-        from_email = "web.decube@gmail.com"
+        from_email = "decube.ashiato@gmail.com"
         #送信先メールアドレス、複数設定の場合は「,」で区切る
         recipient_list = ["web.decube@gmail.com"]
         try:
