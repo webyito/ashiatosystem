@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'demo',
     'sanei_uranus',
     'testito',
+    'cosmosauto',
 ]
 
 MIDDLEWARE = [

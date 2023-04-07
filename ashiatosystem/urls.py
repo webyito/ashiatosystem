@@ -29,4 +29,5 @@ urlpatterns = [
     path('demo/', include('demo.urls')),
     path('sanei_uranus/', include('sanei_uranus.urls')),
     path('testito/',include('testito.urls')),
+    path('cosmosauto/',include('cosmosauto.urls')),
 ]

@@ -16,18 +16,17 @@ class IndexView(View):
         #あしあと発行桁数に応じて数字を変える、9999までは-4で統一
         id = qs[-4:]
 
-        subject = "【あしあと／5月開催ウラノス】貴社サイトにアクセスがありました"
+        subject = "【あしあと】貴社サイトにアクセスがありました"
         message = id
         from_email = "decube.ashiato@gmail.com"
         #送信先メールアドレス、複数設定の場合は「,」で区切る
-        #recipient_list = ["web.decube@gmail.com"]
-        recipient_list = ["noel.kosuke.nstk08070522@gmail.com","noel.kosuke.nstk0807@docomo.ne.jp"]
+        recipient_list = ["decube.ashiato@gmail.com","ashi@ashiato.site"]
         try:
             send_mail(subject, message, from_email, recipient_list)
         except BadHeaderError:
             return HttpResponse('無効なヘッダが検出されました。')
         #アプリ名/に書き換える
-        return render(request, 'sanei_uranus/redirect.html')
+        return render(request, 'cosmosauto/redirect.html')
     template_name = 'index.html'
 
 class RedirectView(View):
