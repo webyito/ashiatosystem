@@ -16,7 +16,7 @@ class IndexView(View):
         #あしあと発行桁数に応じて数字を変える、9999までは-4で統一
         id = qs[-4:]
 
-        subject = "【あしあと】貴社サイトにアクセスがありました"
+        subject = "【あしあと／カーリース】貴社サイトにアクセスがありました"
         message = id
         from_email = "decube.ashiato@gmail.com"
         #送信先メールアドレス、複数設定の場合は「,」で区切る
